@@ -3,7 +3,7 @@ import os
 # Get the directory of the current script
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 # Construct the absolute path to todos.txt
-FILEPATH = os.path.join(SCRIPT_DIR, "../files/todos.txt")
+FILEPATH = os.path.join(SCRIPT_DIR, "todos.txt")
 
 
 def get_todos(filepath=FILEPATH):
