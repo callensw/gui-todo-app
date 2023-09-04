@@ -18,5 +18,3 @@ def write_todos(todos_arg, filepath=FILEPATH):
     """Write the to-do items list in the text file."""
     with open(filepath, 'w') as file_local:
         file_local.writelines(todos_arg)
-print(SCRIPT_DIR)
-print(FILEPATH)
