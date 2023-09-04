@@ -1,5 +1,5 @@
 from modules import functions
-#  Can also use from functions import get_todos, write_todos
+#  Can also use from functions.py import get_todos, write_todos
 import time
 
 now = time.strftime("%b %d, %Y %H:%M:%S")
