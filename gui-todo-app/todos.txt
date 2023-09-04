@@ -3,6 +3,3 @@ Do the laundry
 Learn Python
 Feed the dogs
 Buy groceries
-Check the mail
-Help the neighbor
-Get paper
