@@ -1,4 +1,4 @@
-from modules import functions
+import functions
 #  Can also use from functions.py import get_todos, write_todos
 import time
 
